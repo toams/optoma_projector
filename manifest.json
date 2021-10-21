@@ -1,0 +1,6 @@
+{
+  "domain": "optoma_projector",
+  "name": "Optoma Projector",
+  "requirements": ["pyserial==3.5"],
+  "codeowners": []
+}
